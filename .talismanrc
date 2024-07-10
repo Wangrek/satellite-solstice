@@ -1,0 +1,9 @@
+fileignoreconfig:
+- filename: src/env.d.ts
+  checksum: 936c085b29edcabf646461d69b3ed6ef47e03c9ac7a5d12dd139639c8314136e
+- filename: pnpm-lock.yaml
+  checksum: d87847f42de0eeb28d410560cd7774cc4e1c31fcc1bf1db01564842fe2ceed93
+- filename: package-lock.json
+  checksum: ead09b4b5b6026cea5525daef63f4677fc0e56264b2c8ace88c24d0032a694fd
+version: ""
+
